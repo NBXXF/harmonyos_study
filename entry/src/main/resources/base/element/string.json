@@ -11,6 +11,9 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },{
+      "value": "testStr",
+      "name": "testStr"
     }
   ]
 }

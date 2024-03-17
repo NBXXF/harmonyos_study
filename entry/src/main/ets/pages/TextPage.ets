@@ -10,6 +10,10 @@ struct TextPage {
           .fontColor(Color.Blue)
           .fontSize(20)
           .fontWeight(FontWeight.Bold)
+        Text($r('app.string.testStr'))
+          .fontColor(Color.Red)
+          .fontSize(20)
+          .fontWeight(FontWeight.Lighter)
       }
       .width('100%')
     }
